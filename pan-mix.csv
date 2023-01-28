@@ -1,8 +1,3 @@
-"Source:","/home/pstiverson/Projects/AR-808/hardware/pan-mix/pan-mix.kicad_sch"
-"Date:","Fri 27 Jan 2023 05:58:20 PM CST"
-"Tool:","Eeschema 6.0.10-86aedd382b~118~ubuntu22.04.1"
-"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py"
-"Component Count:","294"
 "Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
 "C1, C2, ","2","22U/35V","C_Polarized","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","Polarized capacitor",""
 "C3, C4, C5, C8, C9, C10, C13, C14, C15, C18, C19, C20, C23, C24, C35, ","15","100n","C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","Unpolarized capacitor",""
